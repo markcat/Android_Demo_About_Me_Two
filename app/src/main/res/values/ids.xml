@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="done_button" type="id">Done</item>
+    <item name="nickname_edit" type="id">nickname_edit</item>
+    <item name="nickname_text" type="id">nickname_text</item>
+</resources>
